@@ -1,0 +1,42 @@
+body {
+    background-color: #C1E59F;
+}
+
+h1 {
+    font-family: "Verdana", "Helvetica", "Arial", sans-serif;
+}
+
+h2, h3 {
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+p {
+    font-family: "Times", "Times New Roman", "Georgia", serif;
+    font-size: 20px;
+}
+
+img {
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+a {
+    font-size: 25px;
+}
+
+.Ingredients {
+    font-family: "Hind", sans-serif;    
+    font-size: 18px;
+}
+
+h4 {
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 22px;
+}
+
+.steps {
+    font-family: "Hind", sans-serif;
+    font-size: 18px;     /* FIXED: removed space between 18 and px */
+}
